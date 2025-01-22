@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'tailwind',
     'theme',
+    'chat',
 ]
 
 NPM_BIN_PATH = "C:\\Program Files (x86)\\nodejs\\npm.cmd"
